@@ -1,0 +1,28 @@
+body{
+    background-color: rgba(242, 235, 191, 0.789);
+}
+
+.h1 {
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    background-color: rgb(191, 155, 111);
+}
+
+.h3{ 
+    font-style: normal;
+    color: black;
+    text-align: center;
+}
+
+.img {
+    width: 550px;
+    height: auto;
+    
+}
+
+#sobre{
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(191, 155, 111);
+}
